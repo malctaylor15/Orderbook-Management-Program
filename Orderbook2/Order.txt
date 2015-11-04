@@ -1,0 +1,14 @@
+Ticker Side Type Qty Price CP
+ABC B limit 50 30 GiantHedgeFund 
+ABC B limit 50 20 NaminiFund
+ABC S limit 50 10 BUInvestmentFund 
+ABC S limit 60 30 DELL
+ABC B limit 60 40 ROCKET
+ABC B limit 50 20 HDMI
+ABC S limit 60 30 IHOME
+ABC B market 60 20 SAMSUNG
+ABC S market 100 30 MINDFULCORP
+ABC S limit 300 40 JPMORGAN
+ABC B limit 200 45 CITIBANK
+ABC B market 100 40 APPLES
+ABC S limit 300 10 SPERRYINC
